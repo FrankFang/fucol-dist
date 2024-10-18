@@ -1,0 +1,1 @@
+import{C as s}from"./index-CowSbynL.js";const r=s.object({groupName:s.string().min(1,{message:"groupName must be at least 1 characters"}),copyPermissionFrom:s.string().min(1,{message:"copyPermissionFrom must be at least 1 characters"})});export{r as U};

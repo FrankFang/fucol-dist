@@ -1,0 +1,1 @@
+import{c as n,b as e,v as t}from"./index-CowSbynL.js";const s=n(null,()=>()=>e("div",{class:"flex justify-center items-center h-screen bg-[#999999]"},[e("div",{class:"flex justify-center items-center   "},[e(t,{class:"bg-white rounded-lg",type:"manage"},null)])]));export{s as SignInManagePage,s as default};

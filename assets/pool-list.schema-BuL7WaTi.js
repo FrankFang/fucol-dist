@@ -1,0 +1,1 @@
+import{C as a}from"./index-CowSbynL.js";const t=a.object({poolName:a.string().min(1,{message:"poolName must be at least 1 characters"}),dataSpace:a.string().min(1,{message:"dataSpace must be at least 1 characters"})});export{t as P};
