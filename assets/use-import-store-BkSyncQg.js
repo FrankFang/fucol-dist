@@ -1,0 +1,1 @@
+import{r as e,K as r,at as l}from"./index-DwfHuPCK.js";const t=e(0),s=e([{title:"Import",valid:!1},{title:"Q&A And Label Check",valid:!1},{title:"Done",valid:!1}]),n=r(()=>s.value[t.value]),c=()=>{const a=l(),{step:o}=a.params;return t.value=o==="two"?1:0,{index:t,steps:s,currentStep:n}};export{c as u};

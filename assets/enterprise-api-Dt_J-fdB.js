@@ -1,0 +1,1 @@
+import{h as t}from"./index-DwfHuPCK.js";const i={list:async e=>await t.get(`/mgr/enterprise/list?enterprise_name=${e}`),detail:async e=>await t.get(`/mgr/enterprise/info?id=${e}`),create:async()=>{},edit:async()=>{},delete:async()=>{}};export{i as e};
